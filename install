@@ -1,0 +1,10 @@
+b="\033[1;31m"
+echo -e " $b             Install Requirements"
+echo
+apt install sl
+apt install figlet
+apt install python2
+rm install
+echo
+echo
+echo -e " $b       Now open tool by [python2 elkomy.py] Regards."
